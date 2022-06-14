@@ -1,0 +1,11 @@
+data:
+    data_root: ./data_raw
+    save_root: ./results
+    sample_rate: 0.1
+
+model:
+    debug: true
+    test_rate: 0.2
+    model_name: itemcf_baseline
+    sim_item_topk: 10 # 相似文章的数量
+    recall_item_num: 10 # 召回文章数量
