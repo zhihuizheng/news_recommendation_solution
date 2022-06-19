@@ -1,0 +1,7 @@
+python==3.6.13
+numpy==1.19.2
+lightgbm==3.2.1
+faiss-cpu==1.7.1
+deepctr==0.8.2
+deepmatch==0.2.0
+gensim==3.8.3
